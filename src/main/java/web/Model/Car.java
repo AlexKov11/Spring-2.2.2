@@ -58,4 +58,5 @@ public class Car {
     public int hashCode() {
         return Objects.hash(model, color, year);
     }
+
 }

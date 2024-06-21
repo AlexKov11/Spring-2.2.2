@@ -24,5 +24,4 @@ public class CarController {
         model.addAttribute("cars", carService.getCars(count.orElse(0)));
         return "cars";
     }
-
 }

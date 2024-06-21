@@ -13,7 +13,7 @@ public class CarDaoImp implements CarDao {
     private static final List<Car> carList = new ArrayList<>();
 
     static {
-        carList.add(new Car("Audi", "black", 2007));
+        carList.add(new Car("Audi", "black", 2006));
         carList.add(new Car("Mercedes", "brown", 2017));
         carList.add(new Car("KIA", "white", 2012));
         carList.add(new Car("Ford", "black", 2017));
