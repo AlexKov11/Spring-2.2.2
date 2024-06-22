@@ -1,7 +1,6 @@
-package web.CarDao;
+package web.dao;
 
-import jdk.dynalink.linker.LinkerServices;
-import web.Model.Car;
+import web.model.Car;
 
 import java.util.List;
 
